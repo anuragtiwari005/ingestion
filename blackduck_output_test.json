@@ -279,6 +279,8 @@
                 "vulnerabilityUpdatedDate": "2024-10-18T12:52:33.507Z",
                 "baseScore": 8.7,
                 "overallScore": 8.7,
+                "exploitabilitySubscore": 3.1,
+                "impactSubscore": 5.8,
                 "source": "NVD",
                 "severity": "HIGH",
                 "remediationStatus": "NEW",

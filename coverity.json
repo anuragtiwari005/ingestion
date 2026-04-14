@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><!--Document generated on Thu Mar 30 23:57:08 GMT 2023-->
+<?xml version='1.0' encoding='UTF-8'?>
 <cov:exportedProjectDefects xmlns:cov="http://coverity.com">
     <cov:mergedDefect cid="250147" type="UrF: Unread field" impact="Low" status="New" firstDetected="02/27/22" owner="Unassigned" classification="Unclassified" severity="Unspecified" action="Undecided" displayComponent="Other" category="SpotBugs: Performance" file="/src/main/java/frc/robot/subsystems/Hinge.java" function=""/>
     <cov:mergedDefect cid="250146" type="SIC: Inner class could be made static" impact="Low" status="New" firstDetected="02/27/22" owner="Unassigned" classification="Unclassified" severity="Unspecified" action="Undecided" displayComponent="Other" category="SpotBugs: Performance" file="/src/main/java/frc/robot/subsystems/Compressor.java" function=""/>
